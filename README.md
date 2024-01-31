@@ -22,23 +22,23 @@
 **Module 2: Fetching Data**
 - **Topics Covered**:
 	- SQL commands for data retrieval (`SELECT`, `DISTINCT`, `INSERT`, `UPDATE`, `DELETE`).
-- **Code Snippets**: Demonstrate proficiency in basic CRUD (Create, Read, Update, Delete) operations in SQL.
+- [**Code Snippets**](https://github.com/ilirjanahyseni/SQL-learning-repo/blob/main/fetching-data.sql): Demonstrate proficiency in basic CRUD (Create, Read, Update, Delete) operations in SQL.
 
 **Module 3: Filtering Data**
 - **Topics Covered**:
 	- Using `WHERE`, `IN`, `LIKE`, `BETWEEN`, `AND`, `OR`, `NOT` for data filtering.
-- **Code Snippets**: Displayed the ability to extract relevant information from large datasets using various filtering techniques.
+- [**Code Snippets**](https://github.com/ilirjanahyseni/SQL-learning-repo/blob/main/filtering-data.sql): Displayed the ability to extract relevant information from large datasets using various filtering techniques.
 
 **Module 4: Aggregation**
 - **Topics Covered**:
 	- Aggregate functions (`SUM`, `AVG`, `MIN`, `MAX`, `COUNT`).
 	- `GROUP BY`, `ORDER BY`, `CASE WHEN`.
-- **Code Snippets**: Showcased the use of aggregate functions to perform complex data summaries and analyses.
+- [**Code Snippets**](https://github.com/ilirjanahyseni/SQL-learning-repo/blob/main/aggregation.sql): Showcased the use of aggregate functions to perform complex data summaries and analyses.
 
 **Module 5: Joining Tables**
 - **Topics Covered**:
 	- Different types of joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `UNION`, `FULL JOIN`, `CROSS JOIN`).
-- **Code Snippets**: Demonstrated competence in merging data from multiple tables to form comprehensive datasets.
+- [**Code Snippets**](https://github.com/ilirjanahyseni/SQL-learning-repo/blob/main/joining-tables.sql): Demonstrated competence in merging data from multiple tables to form comprehensive datasets.
 
 **Module 6: Order of Execution in SQL**
 - **Topics Covered**:
@@ -51,8 +51,6 @@
 
 ## Resources and Refrences
 
-Books, websites, forums, communities, and other learning materials used:
-
 [Great Learning](https://olympus.mygreatlearning.com/courses/84180)
 
-Learning Materials and Notes
+[Learning Materials and Notes](https://github.com/ilirjanahyseni/SQL-learning-repo/blob/main/commands-queries.xlsx)
